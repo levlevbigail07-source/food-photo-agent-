@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project runtime data (photos in progress, SQLite database)
+data/
+*.db
+*.sqlite
+*.sqlite3
